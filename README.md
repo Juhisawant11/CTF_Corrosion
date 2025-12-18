@@ -39,8 +39,6 @@ Successful access to the system via compromised Tomcat credentials and establish
 **Key Outcome:**  
 Complete system compromise demonstrating the impact of weak credentials, poor access controls, and insecure configurations.
 
-:contentReference[oaicite:2]{index=2}
-
 ---
 
 ## Tools & Techniques Used
