@@ -24,8 +24,6 @@ This repository contains **two Capture The Flag (CTF) labs** focused on applying
 **Key Outcome:**  
 Successful access to the system via compromised Tomcat credentials and establishment of a Meterpreter session.
 
-:contentReference[oaicite:1]{index=1}
-
 ---
 
 ## Lab 2: Exploitation & Post-Exploitation
